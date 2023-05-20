@@ -55,3 +55,25 @@ The Canada Immigration dataset can be fetched from <a href="https://cf-courses-d
 
 ***
 
+# Pie Charts, Box Plots, Scatter Plots, and Bubble Plots
+
+## Objectives
+
+After completing this lab you will be able to:
+
+*   Explore Matplotlib library further
+*   Create pie charts, box plots, scatter plots and bubble charts
+
+## Table of Contents
+
+<div class="alert alert-block alert-info" style="margin-top: 20px">
+
+1.  [Exploring Datasets with *p*andas](#0)<br>
+2.  [Downloading and Prepping Data](#2)<br>
+3.  [Visualizing Data using Matplotlib](#4) <br>
+4.  [Pie Charts](#6) <br>
+5.  [Box Plots](#8) <br>
+6.  [Scatter Plots](#10) <br>
+7.  [Bubble Plots](#12) <br>
+
+</div>
