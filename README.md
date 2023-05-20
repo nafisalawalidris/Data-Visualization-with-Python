@@ -1,7 +1,4 @@
-# Data-Visualization-with-Python
-
-
-# Data Visualization
+# Data Visualization with Python
 
 ## Objectives
 
