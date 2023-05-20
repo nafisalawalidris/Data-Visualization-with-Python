@@ -74,12 +74,10 @@ The Canada Immigration dataset can be fetched from <a href="https://cf-courses-d
 # Waffle Charts, Word Clouds, and Regression Plots
 
 ## Objectives
-
 *   Create Word cloud and Waffle charts
 *   Create regression plots with Seaborn library
 
 ## Table of Contents
-
 <div class="alert alert-block alert-info" style="margin-top: 20px">
 
 1.  [Exploring Datasets with *p*andas](#0)<br>
@@ -88,5 +86,26 @@ The Canada Immigration dataset can be fetched from <a href="https://cf-courses-d
 4.  [Waffle Charts](#6) <br>
 5.  [Word Clouds](#8) <br>
 6.  [Regression Plots](#10) <br>
+
+</div>
+
+# Generating Maps with Python
+
+## Objectives
+*   Visualize geospatial data with Folium
+
+## Introduction
+
+In this lab, we will learn how to create maps for different objectives. To do that, we will part ways with Matplotlib and work with another Python visualization library, namely **Folium**. What is nice about **Folium** is that it was developed for the sole purpose of visualizing geospatial data. While other libraries are available to visualize geospatial data, such as **plotly**, they might have a cap on how many API calls you can make within a defined time frame. **Folium**, on the other hand, is completely free.
+
+## Table of Contents
+
+<div class="alert alert-block alert-info" style="margin-top: 20px">
+
+1.  [Exploring Datasets with *pandas*](#0)<br>
+2.  [Downloading and Prepping Data](#2)<br>
+3.  [Introduction to Folium](#4) <br>
+4.  [Map with Markers](#6) <br>
+5.  [Choropleth Maps](#8) <br>
 
 </div>
