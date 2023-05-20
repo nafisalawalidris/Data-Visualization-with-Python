@@ -5,8 +5,6 @@
 
 ## Objectives
 
-After completing this lab you will be able to:
-
 *   Create Data Visualization with Python
 *   Use various Python libraries for visualization
 
@@ -59,8 +57,6 @@ The Canada Immigration dataset can be fetched from <a href="https://cf-courses-d
 
 ## Objectives
 
-After completing this lab you will be able to:
-
 *   Explore Matplotlib library further
 *   Create pie charts, box plots, scatter plots and bubble charts
 
@@ -75,5 +71,25 @@ After completing this lab you will be able to:
 5.  [Box Plots](#8) <br>
 6.  [Scatter Plots](#10) <br>
 7.  [Bubble Plots](#12) <br>
+
+</div>
+
+# Waffle Charts, Word Clouds, and Regression Plots
+
+## Objectives
+
+*   Create Word cloud and Waffle charts
+*   Create regression plots with Seaborn library
+
+## Table of Contents
+
+<div class="alert alert-block alert-info" style="margin-top: 20px">
+
+1.  [Exploring Datasets with *p*andas](#0)<br>
+2.  [Downloading and Prepping Data](#2)<br>
+3.  [Visualizing Data using Matplotlib](#4) <br>
+4.  [Waffle Charts](#6) <br>
+5.  [Word Clouds](#8) <br>
+6.  [Regression Plots](#10) <br>
 
 </div>
